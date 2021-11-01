@@ -28,4 +28,4 @@ Log format is ... date Japan review score, US review score, Japan review comment
 ## By the way...
 I'm using this script at my Raspberry Pi zero w.  
 That is enough spec.  
-Python 3.6.5
+It worked Python 3.6.5
